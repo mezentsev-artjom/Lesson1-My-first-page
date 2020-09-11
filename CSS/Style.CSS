@@ -1,0 +1,7 @@
+body {background-color: rgb(159, 231, 238);}
+ul {list-style-type: square;}
+img.pelmeni {border-radius: 50%;}
+hr {width: 50%; 
+    border-style: solid none none;
+    border-width: 0.3rem;
+    border-color: #000000 }
